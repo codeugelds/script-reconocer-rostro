@@ -2,6 +2,8 @@
 
 Este repositorio contiene dos scripts de Python para el reconocimiento facial utilizando la biblioteca `face_recognition` y `cv2`.
 
+![Codeugel](captura.jpg)
+
 ## Scripts
 
 ### `reconoceprop.py`
